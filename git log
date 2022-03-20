@@ -1,0 +1,35 @@
+[33mcommit 254f70bba91e33749738a8887a8bde70cd68f3f0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Silviu Martinescu <martinescu.silviu28@gmail.com>
+Date:   Sat Mar 19 17:57:39 2022 +0200
+
+    Create Article model and migrate to database
+
+[33mcommit 07fda88f423a3f6c0c650e363ba5b1aa2908652e[m
+Author: Silviu Martinescu <martinescu.silviu28@gmail.com>
+Date:   Sat Mar 19 13:17:41 2022 +0200
+
+    Add bootstrap meta-tags
+
+[33mcommit e678de47edad5abb40660046d60ee8b8e8b99fdf[m
+Author: Silviu Martinescu <martinescu.silviu28@gmail.com>
+Date:   Sat Mar 19 13:08:19 2022 +0200
+
+    Integrate bootstrap classes
+
+[33mcommit b60313fe0497a76d4896cde9e71a1cfb4e514310[m
+Author: Silviu Martinescu <martinescu.silviu28@gmail.com>
+Date:   Sat Mar 19 10:59:48 2022 +0200
+
+    Add static CSS file
+
+[33mcommit 0d5dd829dedb7577bd941e83a4ffeb8d6e6e1e03[m
+Author: Silviu Martinescu <martinescu.silviu28@gmail.com>
+Date:   Sat Mar 19 10:44:30 2022 +0200
+
+    Build pages using Django template language
+
+[33mcommit 0ed66374ddb01b4d56b5899dc2e1f341f895949d[m
+Author: Silviu Martinescu <martinescu.silviu28@gmail.com>
+Date:   Thu Mar 17 13:30:19 2022 +0200
+
+    Initial commit
